@@ -1,6 +1,6 @@
 const weekDayArray = ['Sunday','Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
 
-const monthArray = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'Augugst', 'September', 'October', 'November', 'December'];
+const monthArray = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 
 const calendarMonthElem = document.querySelector('.calendar-month');
 const calendarDayElem = document.querySelector('.calendar-day');
