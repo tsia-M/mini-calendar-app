@@ -16,4 +16,4 @@ How it works:
 The app uses JavaScript’s Date object to retrieve the current date and updates the DOM dynamically.
 
 Live Demo:
-https://tsia-m.github.io/Mini-Calendar/
+https://tsia-m.github.io/mini-calendar-app/
